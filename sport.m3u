@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="Kanal1" group-title="Sport",Canal+
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0
 
-#EXTINF:-1 tvg-id="Kanal1" group-title="Sport",Canal+ 
+#EXTINF:-1 tvg-id="Kanal1" group-title="Sport",Canal+2
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport2/live_fullhd?offsetSeconds=0
 
 #EXTINF:-1 tvg-id="Kanal1" group-title="Sport",Eurosport 1
