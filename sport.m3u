@@ -1,41 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Kanal1" group-title="Sport",Canal+
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0
-
-#EXTINF:-1 tvg-id="Kanal1" group-title="Sport",Canal+2
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport2/live_fullhd?offsetSeconds=0
-
-#EXTINF:-1 tvg-id="Kanal1" group-title="Sport",Eurosport 1
-http://88.212.7.14/live/test_esp1_hevc_tizen/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Kanal1" group-title="Sport",Eurosport 2
-http://88.212.7.14/live/test_esp1_hevc_tizen/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Kanal1" group-title="Sport",Eurosport 4k
-http://88.212.15.50/live/esp_4k_atk/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Kanal1" group-title="Sport",Sport 1
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-sport1-sk/live_fullhd
-
-#EXTINF:-1 tvg-id="Kanal1" group-title="Sport",Sport 2
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-sport2-sk/live_fullhd
-
-#EXTINF:-1 tvg-id="Kanal1" group-title="Sport",CT Sport
-http://88.212.15.50/live/test_ctsport_25p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Kanal1" group-title="Sport",šport
-http://88.212.15.50/live/test_rtvs_sport_hevc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Kanal1" group-title="Sport",Prima sport
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/prima_sport/live_mq?offsetSeconds=0
-
-#EXTINF:-1 tvg-id="Kanal1" group-title="Sport",CCTV Fotbal
-http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
-
-#EXTINF:-1 tvg-id="Kanal1" group-title="Sport",CCTV Biliard
-http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
-
-#EXTINF:-1 tvg-id="Kanal1" group-title="Sport",FUTV
-http://45.228.234.9:8000/play/a06o/index.m3u8
+http://127.0.0.1:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng&_idx=-1
 
 
